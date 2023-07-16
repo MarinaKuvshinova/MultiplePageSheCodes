@@ -1,0 +1,17 @@
+body {
+  background: goldenrod;
+}
+.text {
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+ul a {
+  color: green;
+}
